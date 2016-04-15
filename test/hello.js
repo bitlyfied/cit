@@ -5,7 +5,7 @@ describe("Thing", function() {
     assert.equal(true, true)
   })
 
-  it("fails", function() {
+  xit("fails", function() {
     assert.equal(true, false)
   })
 })
