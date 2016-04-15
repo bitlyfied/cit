@@ -1,0 +1,23 @@
+{
+  "name": "cit",
+  "version": "1.0.0",
+  "description": "CI Test",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bitlyfied/cit.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bitlyfied/cit/issues"
+  },
+  "homepage": "https://github.com/bitlyfied/cit#readme",
+  "dependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5"
+  }
+}
